@@ -1,0 +1,23 @@
+.logo {
+	 float: center;
+	 font-size: xx-large;
+	 color: #420251;
+}
+ nav {
+	 font-size: medium;
+}
+ nav ul {
+	 margin: 0px;
+	 padding: 10px;
+	 list-style: none;
+}
+ nav li {
+	 display: inline-block;
+	 padding: 30px;
+}
+ body {
+	 background: #420251;
+}
+ a {
+	 color: #420251
+}
